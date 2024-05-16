@@ -1,13 +1,6 @@
 # 💫 About Me:
 As the CEO and Founder of Techy Workers, I'm Shashank Kanna, a passionate tech enthusiast deeply immersed in the realms of Programming, Ethical Hacking, Robotics, IoT, and Development.😇
 <br><br>
-At Techy Workers, we go beyond mere security breaches and access gains; we strive to develop tools and gadgets that not only navigate layers of security but also serve as invaluable learning aids for aspiring hackers and enthusiasts alike. We also offer comprehensive training and mentorship programs. Through personalized guidance and hands-on instruction, we empower individuals to hone their skills and excel in the fields of Programming, Ethical Hacking, Robotics and IoT. Whether you're a beginner looking to explore new horizons or a seasoned professional seeking to sharpen your expertise, our training programs are designed to support you every step of the way, ensuring you reach your full potential in the ever-evolving world of technology. 👨🏻‍💻
-<br><br>
-
-Moreover, my fascination with technology extends to addressing real-world challenges through Robotics and IoT solutions. Leveraging my expertise in photography and Adobe editing suites, I craft compelling visual narratives that resonate and captivate audiences, bringing stories to life through imagery and video content.
-<br><br>
-
-As we embark on this startup journey with Techy Workers, our vision is to empower individuals and organizations with cutting-edge technology solutions while fostering a culture of innovation and creativity. Join us as we revolutionize the tech landscape, one breakthrough at a time. 🚀💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shashank-kanna-7b4153275) [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/shashank_kanna) [![  -  Website](https://img.shields.io/badge/_-_Website-FFBB00?logo=google&logoColor=000000)](https://techyworker.com)
