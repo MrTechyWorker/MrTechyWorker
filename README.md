@@ -1,12 +1,10 @@
 # 💫 About Me:
-As the CEO and Founder of Techy Workers, I'm Shashank Kanna, a passionate tech enthusiast deeply immersed in the realms of Programming, AI/ML/DL/LLM, Ethical Hacking, Robotics, IoT, and Development.😇
+As the CEO and Founder of Techy Workers, I'm Shashank Kanna, a passionate tech enthusiast deeply immersed in the realms of Programming, AI, Ethical Hacking, Robotics, IoT, and Development.😇
 <br>
 Moreover, my fascination with technology extends to addressing real-world challenges through AI, Robotics and IoT solutions. Solving real-wrold and practical problem statements that has a huge impact in practice has been my passion and hobby.🚀💻
 
 # 🌐 Socials:
-### [LinkedIn](www.linkedin.com/in/shashank-kanna-7b4153275)
-### [Linktree](https://linktr.ee/shashank_kanna)
-### [Website](https://techyworker.com)
+### [LinkedIn](www.linkedin.com/in/shashank-kanna-7b4153275) - [Website](https://techyworker.com) - [Linktree](https://linktr.ee/shashank_kanna)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) 
