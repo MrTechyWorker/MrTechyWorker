@@ -1,5 +1,5 @@
 # 💫 About Me:
-As the CEO and Founder of Techy Workers, I'm Shashank Kanna, a passionate tech enthusiast deeply immersed in the realms of Programming, AI, Ethical Hacking, Robotics, IoT, and Development.😇
+I'm Shashank Kanna, a passionate tech enthusiast deeply immersed in the realms of Programming, AI, Ethical Hacking, Robotics, IoT, and Development.😇
 <br>
 Moreover, my fascination with technology extends to addressing real-world challenges through AI, Robotics and IoT solutions. Solving real-wrold and practical problem statements that has a huge impact in practice has been my passion and hobby.🚀💻
 
