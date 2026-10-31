@@ -1,7 +1,6 @@
-# About Me:
+# Hi there 👋🏻,
 I'm Shashank Kanna R, a passionate tech enthusiast deeply immersed in the realms of Programming, Robotics, Embedded and Cloud & Networking.
 
-# Tech Stack:
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-white) 
