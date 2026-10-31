@@ -1,10 +1,7 @@
-# 💫 About Me:
-I'm Shashank Kanna R, a passionate tech enthusiast deeply immersed in the realms of Programming, Robotics, Embedded and Cloud & Networking.😇
+# About Me:
+I'm Shashank Kanna R, a passionate tech enthusiast deeply immersed in the realms of Programming, Robotics, Embedded and Cloud & Networking.
 
-# 🌐 Socials:
-### [LinkedIn](www.linkedin.com/in/shashank-kanna-7b4153275) - [Website](https://techyworker.com)
-
-# 💻 Tech Stack:
+# Tech Stack:
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-white) 
